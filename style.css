@@ -16,7 +16,7 @@ html , body{
   } 
   .header{
     margin-top: 40px;
-    padding: 50px;
+    /* padding: 50px; */
     font-size: xx-large;
 
   }
